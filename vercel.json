@@ -1,0 +1,5 @@
+{
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "rewrites": [{"source": "/(.*)", "destination": "/app__93_ (9).html"}]
+}
